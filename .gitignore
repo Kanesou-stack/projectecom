@@ -1,0 +1,13 @@
+# Node
+node_modules/
+server/node_modules/
+
+# Vite build
+project/dist/
+
+# Env
+project/.env
+server/.env
+
+# IDE
+.vscode/
